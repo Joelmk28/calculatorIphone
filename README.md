@@ -1,0 +1,2 @@
+# calculatorIphone
+with .netMAUI
